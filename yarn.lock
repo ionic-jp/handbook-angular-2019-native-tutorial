@@ -341,6 +341,13 @@
   resolved "https://registry.yarnpkg.com/@capacitor/ios/-/ios-1.1.1.tgz#db1419114e610b8c60513151f57e6f14e7912bac"
   integrity sha512-6JCNWDY7E+Tt9mkzflwlK9tHl2qcPUgazZC0/aBte9lBEDpmzGPbTlHoiYeKTIqfhQeU7Qk8g6QabCx6vNzJpQ==
 
+"@ionic-native/badge@^5.13.0":
+  version "5.13.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/badge/-/badge-5.13.0.tgz#b4f0fa4d8eb9f7441f010296a5d31cb59c98ba3a"
+  integrity sha512-W/cLQK04tAiyggQfSKIJH16zXF1pWtmSMie3lXT1RJB7RYxXpKirOGikGUT2bj7f1y87cgrZW5l7JaCkIKnJ5A==
+  dependencies:
+    "@types/cordova" latest
+
 "@ionic-native/core@^5.0.0":
   version "5.13.0"
   resolved "https://registry.yarnpkg.com/@ionic-native/core/-/core-5.13.0.tgz#9d4068ae58334a4589178d135cfe7abdbad5003a"
@@ -1922,6 +1929,11 @@ copy-webpack-plugin@5.0.3:
     schema-utils "^1.0.0"
     serialize-javascript "^1.7.0"
     webpack-log "^2.0.0"
+
+cordova-plugin-badge@^0.8.8:
+  version "0.8.8"
+  resolved "https://registry.yarnpkg.com/cordova-plugin-badge/-/cordova-plugin-badge-0.8.8.tgz#0924018699b48f92dd3b33615452737582144c96"
+  integrity sha512-RhIBtd5xhD/iLnxjt35jvOae28oNW/wtMZBOmQR3Rf0y4wirvA1bpAZEhBoFqL+rZGhsd6ddOdQXdex1T0DRyQ==
 
 core-js@3.1.4:
   version "3.1.4"

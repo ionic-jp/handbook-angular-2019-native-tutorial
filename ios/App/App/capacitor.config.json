@@ -3,5 +3,8 @@
   "appName": "native-tutorial",
   "bundledWebRuntime": false,
   "npmClient": "yarn",
-  "webDir": "www"
+  "webDir": "www",
+  "server": {
+    "url": "http://localhost:8100"
+  }
 }
