@@ -395,6 +395,11 @@
     ionicons "^4.6.3"
     tslib "^1.10.0"
 
+"@ionic/pwa-elements@1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@ionic/pwa-elements/-/pwa-elements-1.3.0.tgz#9f27b1d3d408542528279209817d534f55957921"
+  integrity sha512-nCi4mpOpRmpNbpVN60NSAch61XxEOr4ulw7irWdsIpt1WOXmsfmc0IWYZCRtpeQsiLAHvBFoFoNhELdjirmHgA==
+
 "@ngtools/webpack@8.1.3":
   version "8.1.3"
   resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-8.1.3.tgz#9df049b14539109b60590a1ca64cbd80b6e49909"
